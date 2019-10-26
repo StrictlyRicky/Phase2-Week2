@@ -1,0 +1,117 @@
+html {
+    overflow: hidden;
+}
+
+.nav-content:hover {
+    background-color: #00364d;
+    color: white;
+}
+
+.bg-grey {
+    background-color: #f6f7f7;
+}
+
+.content {
+    height: 95vh;
+}
+
+.icon {
+    object-fit: cover;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+}
+
+.icon-2 {
+    width: 0px;
+}
+
+.btn-light {
+    color: #006088;
+}
+
+.sidebar {
+    overflow: scroll;
+    height: 69vw;
+    min-width: 250px;
+    max-width: 250px;
+}
+
+.drop {
+    list-style: none;
+    padding: 15px 20px;
+    font-size: 15px;
+}
+
+.hov:hover {
+    background-color: grey;
+}
+
+.main-page {
+    padding: 30px 10px;
+    overflow: scroll;
+    height: 100%;
+    width: 100%;
+}
+
+.nav-link {
+    cursor: grab;
+}
+
+.nav-link:active {
+    cursor: grabbing;
+}
+
+.add {
+    height: 30px;
+    width: 30px;
+}
+
+.card-image {
+    height: 300px;
+    object-fit: cover;
+    object-position: 0% 100%;
+}
+
+#tiny {
+    height: 100%;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+
+
+
+
+/* SCROLLBAR STYLING */
+::-webkit-scrollbar {
+    width: 15px;
+}
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background: #788787;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #606c6c;
+}
+
+#rightTools {
+    min-width: 100px;
+}
+
+@media only screen and (max-width: 780px) {
+    #hideable {
+        display: none;
+    }
+}
+@media only screen and (max-width: 570px) {
+    #sidebar {
+        display: none;
+    }
+}

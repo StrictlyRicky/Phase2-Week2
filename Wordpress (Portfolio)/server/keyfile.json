@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "idyllic-folio-255401",
+  "private_key_id": "df725d181808cbb644f5167de48eff3119b081a8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIsGY7JuhSVbXK\nEDiTm7RVYQFogyvmP8BaK4aEr0LQaTgsD8A6xDJLTS1GGZRPNqwwWz9+r7hnDAF1\nXLxwnN5AxrkKRdz9KcbzVAVzuRx100R/aTxVgkgkEHYKT98muFp8+fotTrwdtJPu\nkFzz7MFPglk56WjvQoYjv053LIMKDtEAILZw1FJfmK1MffNMxM+sPI63AT1pafyd\nkgKCPl9MDewITPSmzDyMT8Pthm34BaasDIhzYoqeDwZhL2WpdQ9Ub5Z/cPHlk/4m\nPeoYcBB9RANhxzOqDaSVSZaavrjvG8gBffVpZ7kp9WLx1kHPqY8+xY3w+qMcRlw0\nQbVpWnr7AgMBAAECggEAQxa5LjgM/Q07BtASYcHw8IPLuTj0cXXJYzterjd6ofoy\ntYQUcnDJEWQ86My/SBXSTR4L5Vlvzz7zs9yrAAhowgXMsPL288jGAe0KH4v3yCm2\nodM3wKwbWrcIBt15j1OcqF/WstO5zkJiG6O19zMj0mUUV+g/1JAMEKIw5GUEb1U6\nFxyBbld/OMmyjmISYPw79QpfTcPQe1DMtUJ1WI9GP4R16+sZz9eT/OJl4aeSBki2\nium+u8IUytUlTJ8sPZA1gePc6TFc5JFA85JeQXsa8txbmgPlHlMFCP49jeVeajSB\nvzSygPsmZlKFoE7mWZixAnFBzVuKf8uyjn0LJ2EINQKBgQDmY/IjzLl0m4reYw17\nwMFOUnPkm0iIgu+mvkxNjX4yqWnWP26K9UKg930j5Q46fkghajBZa+dmOg7OP+jt\nqrEhtYWrYuaH5CMM6FggSYtr36A8dkk3wKIGA9nraFcHGzGVPVlBzZt8Tlop7Gaf\nZg3A8TUhRH4jF5F+RfJnruLLFwKBgQDe/0NxEOqJWa/JejhpQWvhwpgXh8/XCVGz\nYWBmYVxqjm3rj/xzxECVpVQ/yI8ncpSbj/iAIPBaeblTNmzldoZt7qLLW2ET2O19\n/Twx3VHhdzLQJwnqbbRIs3WoH0WWpFEqsHvr6pT1IsfFss+30EcuoFxV/22S/yXk\nNZq6eDStvQKBgQC3+QWJmthZCj/ZF8XTlXeHQIY0/d7sy4ntX7Z0k1E7yVavdBWk\ntvbOrPJr8GPtR5v3uuEC9wxf8GqUPiqVZqFtppMn6aDm0MFAdGSy26eOq5M71MTg\n1V1MalThC3+7N/bfEo8s4a+Qksyi/5hvHsJK2RIxD42eHhrbd6V7MAcAXwKBgDWi\nqgMA8Zh1pO1N41GVtbAIUPKf7OKo0CjYDAqz8jmC5ndZG3xwwKP9rwTkZWI0kf/U\nog2XXpg0XNnh5lFOr8izNB67bN8MNxstlJPdyrrzI5qjOSRUnJ874tm8I8222frt\nlfDJbGiFpA0uE/3/L4/MbEkW9bD8g42fQwcEsI71AoGANz/cDy0aqEkoulbrTa7/\n95eQszVzqpJTTaLO33n/rOWjyYhipmdFIz6Mo9kLIqdjP3hwJHz610HusMhCevua\n5mqYc4RNx3NyglguNUSgaRACSluReW0ZO9VIRM4WRljHuqkiI1MfYu4gnwA+UVBe\nTx9hAvKbmYy7jtRhiIn9Euc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "parapress-account@idyllic-folio-255401.iam.gserviceaccount.com",
+  "client_id": "107823920311985794377",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/parapress-account%40idyllic-folio-255401.iam.gserviceaccount.com"
+}
